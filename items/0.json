@@ -1,0 +1,30 @@
+{
+    "items": [
+        {
+            "id": 1,
+            "name": "4 Royal Gala Apples",
+            "price": 185 
+        },
+        {
+            "id": 2,
+            "name": "Dairy Milk Chocolate",
+            "price": 250 
+        },
+        {
+            "id": 3,
+            "name": "6 Onions",
+            "price": 199
+        },
+        {
+            "id": 4,
+            "name": "Pure Apple Juice",
+            "price": 99
+        },
+        {
+            "id": 5,
+            "name": "Cocumber",
+            "price": 54
+        }
+    ],
+    "next": true
+}

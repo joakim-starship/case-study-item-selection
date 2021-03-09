@@ -1,0 +1,30 @@
+{
+    "items": [
+        {
+            "id": 6,
+            "name": "Cabbage",
+            "price": 85 
+        },
+        {
+            "id": 7,
+            "name": "Baby Plum Tomatoes 300g",
+            "price": 110
+        },
+        {
+            "id": 8,
+            "name": "Exotic Fruit Salad 300g",
+            "price": 245
+        },
+        {
+            "id": 9,
+            "name": "Sweetcorn Twins",
+            "price": 150
+        },
+        {
+            "id": 10,
+            "name": "4 Sweet Peppers",
+            "price": 190
+        }
+    ],
+    "next": true
+}
