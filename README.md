@@ -10,7 +10,12 @@ Each page can be found at `items/{page_number}.json`.
     items: {
         id: number,
         name: string,
-        price: number
+        price: number,
+        dimensions: {
+            length: number,
+            width: number,
+            height: number
+        }
     }[],
     next: boolean
 }

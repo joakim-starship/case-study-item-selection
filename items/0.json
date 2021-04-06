@@ -3,27 +3,52 @@
         {
             "id": 1,
             "name": "4 Royal Gala Apples",
-            "price": 185 
+            "price": 185,
+            "dimensions": {
+                "length": 280,
+                "width": 70,
+                "height": 70
+            }
         },
         {
             "id": 2,
             "name": "Dairy Milk Chocolate",
-            "price": 250 
+            "price": 250,
+            "dimensions": {
+                "length": 150,
+                "width": 35,
+                "height": 20
+            }
         },
         {
             "id": 3,
             "name": "6 Onions",
-            "price": 199
+            "price": 199,
+            "dimensions": {
+                "length": 150,
+                "width": 150,
+                "height": 150
+            }
         },
         {
             "id": 4,
             "name": "Pure Apple Juice",
-            "price": 99
+            "price": 99,
+            "dimensions": {
+                "length": 80,
+                "width": 80,
+                "height": 250
+            }
         },
         {
             "id": 5,
             "name": "Cocumber",
-            "price": 54
+            "price": 54,
+            "dimensions": {
+                "length": 250,
+                "width": 100,
+                "height": 40
+            }
         }
     ],
     "next": true

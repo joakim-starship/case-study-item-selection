@@ -3,17 +3,32 @@
         {
             "id": 11,
             "name": "Plums",
-            "price": 150
+            "price": 150,
+            "dimensions": {
+                "length": 140,
+                "width": 70,
+                "height": 70
+            }
         },
         {
             "id": 12,
             "name": "Strawberry 100g",
-            "price": 140
+            "price": 140,
+            "dimensions": {
+                "length": 120,
+                "width": 60,
+                "height": 60
+            }
         },
         {
             "id": 13,
             "name": "Nectarines",
-            "price": 199
+            "price": 199,
+            "dimensions": {
+                "length": 80,
+                "width": 40,
+                "height": 40
+            }
         }
     ],
     "next": false
