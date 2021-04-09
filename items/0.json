@@ -49,6 +49,56 @@
                 "width": 100,
                 "height": 40
             }
+        },
+        {
+            "id": 6,
+            "name": "4 Bananas",
+            "price": 185,
+            "dimensions": {
+                "length": 280,
+                "width": 70,
+                "height": 70
+            }
+        },
+        {
+            "id": 7,
+            "name": "White Chocolate",
+            "price": 250,
+            "dimensions": {
+                "length": 150,
+                "width": 35,
+                "height": 20
+            }
+        },
+        {
+            "id": 8,
+            "name": "12 Onions",
+            "price": 299,
+            "dimensions": {
+                "length": 150,
+                "width": 200,
+                "height": 150
+            }
+        },
+        {
+            "id": 9,
+            "name": "Pure Orange Juice",
+            "price": 90,
+            "dimensions": {
+                "length": 80,
+                "width": 80,
+                "height": 250
+            }
+        },
+        {
+            "id": 10,
+            "name": "4 Kiwi",
+            "price": 99,
+            "dimensions": {
+                "length": 100,
+                "width": 100,
+                "height": 40
+            }
         }
     ],
     "next": true

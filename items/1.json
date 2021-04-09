@@ -1,7 +1,7 @@
 {
     "items": [
         {
-            "id": 6,
+            "id": 11,
             "name": "Cabbage",
             "price": 85,
             "dimensions": {
@@ -11,7 +11,7 @@
             }
         },
         {
-            "id": 7,
+            "id": 12,
             "name": "Baby Plum Tomatoes 300g",
             "price": 110,
             "dimensions": {
@@ -21,7 +21,7 @@
             }
         },
         {
-            "id": 8,
+            "id": 13,
             "name": "Exotic Fruit Salad 300g",
             "price": 245,
             "dimensions": {
@@ -31,7 +31,7 @@
             }
         },
         {
-            "id": 9,
+            "id": 14,
             "name": "Sweetcorn Twins",
             "price": 150,
             "dimensions": {
@@ -41,13 +41,63 @@
             }
         },
         {
-            "id": 10,
+            "id": 15,
             "name": "4 Sweet Peppers",
             "price": 190,
             "dimensions": {
                 "length": 280,
                 "width": 70,
                 "height": 70
+            }
+        },
+        {
+            "id": 16,
+            "name": "4 Potatoes",
+            "price": 85,
+            "dimensions": {
+                "length": 200,
+                "width": 200,
+                "height": 200
+            }
+        },
+        {
+            "id": 17,
+            "name": "Baby Plum Tomatoes 150g",
+            "price": 75,
+            "dimensions": {
+                "length": 100,
+                "width": 100,
+                "height": 100
+            }
+        },
+        {
+            "id": 18,
+            "name": "Exotic Fruit Salad 150g",
+            "price": 199,
+            "dimensions": {
+                "length": 100,
+                "width": 100,
+                "height": 100
+            }
+        },
+        {
+            "id": 19,
+            "name": "Sweetcorn",
+            "price": 100,
+            "dimensions": {
+                "length": 180,
+                "width": 60,
+                "height": 60
+            }
+        },
+        {
+            "id": 20,
+            "name": "2 Sweet Peppers",
+            "price": 110,
+            "dimensions": {
+                "length": 280,
+                "width": 70,
+                "height": 50
             }
         }
     ],
